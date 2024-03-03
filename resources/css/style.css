@@ -3,6 +3,9 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+p {
+    color:#ffffff;
+}
 /* HEADING */
 .header--main {
     font-weight: normal;
